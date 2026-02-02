@@ -9,8 +9,8 @@
 
 ## 📊 My GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Stats Card" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahbazamane&show_icons=true&theme=radical" alt="Stats Card" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbazaman&layout=compact&theme=radical" alt="Top Langs" height="150" />
 </p>
 
 ---
